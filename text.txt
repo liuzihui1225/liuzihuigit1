@@ -1,2 +1,3 @@
 i am a good person!
+<<<<<<< HEAD
 i am master.
